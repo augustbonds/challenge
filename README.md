@@ -1,2 +1,2 @@
 # OnlineMD
-Using naive bayesian classification to diagnose disease 
+Using naive bayes classification to diagnose disease 
